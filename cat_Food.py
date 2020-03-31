@@ -1,3 +1,4 @@
+# A programme to calculate the number of cans eaten by cats
 number_of_cats = 10
 cans_eaten_daily = 2
 
