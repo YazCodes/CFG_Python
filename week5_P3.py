@@ -1,0 +1,13 @@
+
+#api - application programing interface
+#(API): A way for different programs to interact. For example they can send data to one another.
+# WebAPIs allow you to interact with other programs over the internet.
+
+import requests
+from pprint import pprint
+pokemon_number = input("What is the Pokemon's ID? ")
+url = 'https://pokeapi.co/api/v2/pokemon/{}/'.format(pokemon_number)
+response = requests.get(url)
+print(response)
+pokemon = response.json()
+pprint(pokemon)

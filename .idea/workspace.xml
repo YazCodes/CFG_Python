@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d3c92a6-abcd-4760-9164-56e9503a27df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/weekFour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekFive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,28 +40,7 @@
       <recent name="C:\Users\yasmi\PycharmProjects\cfg_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.weekFour">
-    <configuration name="createShape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cfg_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/createShape.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.week5_P3">
     <configuration name="square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cfg_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="week5_P3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cfg_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +95,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\yasmi\PycharmProjects\cfg_python\triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5_P3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weekFive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cfg_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weekFive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.week5_P3" />
+        <item itemvalue="Python.weekFive" />
         <item itemvalue="Python.weekFour" />
         <item itemvalue="Python.square" />
         <item itemvalue="Python.triangle (1)" />
-        <item itemvalue="Python.createShape" />
-        <item itemvalue="Python.triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -167,25 +170,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="560" height="199" key="GridCell.Tab.0.bottom" timestamp="1586886655832">
+    <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587908838291">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="560" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586886655832" />
-    <state width="560" height="199" key="GridCell.Tab.0.center" timestamp="1586886655831">
+    <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587908838291" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586978281246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="560" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586886655831" />
-    <state width="560" height="199" key="GridCell.Tab.0.left" timestamp="1586886655831">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586978281246" />
+    <state width="1515" height="209" key="GridCell.Tab.0.bottom" timestamp="1587911540941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="560" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586886655831" />
-    <state width="560" height="199" key="GridCell.Tab.0.right" timestamp="1586886655832">
+    <state width="1515" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587911540941" />
+    <state width="1515" height="209" key="GridCell.Tab.0.center" timestamp="1587911540941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="560" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586886655832" />
-    <state x="0" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1586977459624">
+    <state width="1515" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587911540941" />
+    <state width="1515" height="209" key="GridCell.Tab.0.left" timestamp="1587911540941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586977459624" />
+    <state width="1515" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587911540941" />
+    <state width="1515" height="209" key="GridCell.Tab.0.right" timestamp="1587911540941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587911540941" />
+    <state x="0" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1587904421556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587904421556" />
   </component>
 </project>
